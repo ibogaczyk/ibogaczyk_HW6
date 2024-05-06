@@ -14,19 +14,9 @@ Throughout this assignment, I learned many new features through Github Desktop i
 
 ---
 
-## Instruction to run the application
+## Instructions to run the application
 
-1. Clone this repository to local computer
-
-2. Edit the code with all of our own data and information 
-
-3. Validate all pages using a HTML and CSS validator 
-
-4. Purchase a web domain and SSL certificate 
-
-5. Log into Microsoft Azure and create a resource group
-
-6. Using the resource group, create a web app linking your github repository to Azure 
+Clone this repository to local computer
 
 ---
 
