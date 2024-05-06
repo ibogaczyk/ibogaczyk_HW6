@@ -2,7 +2,7 @@
 ## BAIS:3300 - Digital Product Management Assignment aimed toward advancing skills and building a website using HTML5 and CSS. 
 ![Azure badge](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-https://www.izzybogaczyk.com/
+https://izzybogaczyk.com/
 
 ## Description
 The goal of this assignment was to increase familiarity with the features of Github Desktop and Visual Studio Code to make a website using HTML5 and CSS code. 
